@@ -244,3 +244,9 @@
   top: 0;
   object-fit: cover;
 }
+
+.ellipse:hover{
+  border-color: blue;
+  border-radius: 200px;
+  background-color: lightseagreen ;
+}
