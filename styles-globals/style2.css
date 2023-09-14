@@ -1,0 +1,116 @@
+.web-page-home {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.web-page-home .overlap-wrapper {
+  width: 1440px;
+  height: 1024px;
+}
+
+.web-page-home .overlap {
+  position: relative;
+  height: 1014px;
+  top: 10px;
+  background-image: url(/img/image-19.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.web-page-home .ellipse {
+  position: absolute;
+  width: 142px;
+  height: 138px;
+  top: 13px;
+  left: 2px;
+  object-fit: cover;
+}
+
+.web-page-home .overlap-group {
+  position: absolute;
+  width: 770px;
+  height: 74px;
+  top: 9px;
+  left: 623px;
+}
+
+.web-page-home .lore {
+  position: absolute;
+  width: 386px;
+  height: 74px;
+  top: 0;
+  left: 384px;
+}
+
+.web-page-home .div-wrapper {
+  position: absolute;
+  width: 370px;
+  height: 69px;
+  top: 4px;
+  left: 14px;
+  background-image:url(/img/rectangle-2-1.svg);
+  background-size: 100% 100%;
+}
+
+.web-page-home .text-wrapper {
+  position: absolute;
+  width: 263px;
+  top: 14px;
+  left: 45px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.web-page-home .rectangle {
+  position: absolute;
+  width: 384px;
+  height: 74px;
+  top: -1598px;
+  left: -695px;
+}
+
+.web-page-home .div {
+  position: absolute;
+  width: 386px;
+  height: 74px;
+  top: 0;
+  left: 0;
+}
+
+.web-page-home .overlap-2 {
+  position: absolute;
+  width: 923px;
+  height: 365px;
+  top: 361px;
+  left: 259px;
+}
+
+.web-page-home .proyect {
+  position: absolute;
+  width: 919px;
+  height: 310px;
+  top: 0;
+  left: 4px;
+}
+
+.web-page-home .equipo-primer-a-o {
+  position: absolute;
+  width: 922px;
+  top: 55px;
+  left: 0;
+  font-family: "Marmelad", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}

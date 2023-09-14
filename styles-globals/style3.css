@@ -1,0 +1,153 @@
+.proyecto {
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  align-items: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+
+.proyecto .image {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+
+.proyecto .text-wrapper {
+  position: relative;
+  width: 695px;
+  height: 83px;
+  font-family: "Fira Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.proyecto .ellipse {
+  position: absolute;
+  width: 142px;
+  height: 138px;
+  top: 4px;
+  left: 3px;
+  object-fit: cover;
+}
+
+.proyecto .proyect {
+  position: absolute;
+  width: 919px;
+  height: 310px;
+  top: 491px;
+  left: 260px;
+}
+
+.proyecto .div {
+  position: absolute;
+  width: 1386px;
+  top: 334px;
+  left: 43px;
+  font-family: "Gorditas", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.proyecto .quienes-somos {
+  position: absolute;
+  width: 386px;
+  height: 74px;
+  top: 28px;
+  left: 997px;
+}
+
+.proyecto .overlap-group {
+  width: 370px;
+  left: 14px;
+  background-image: url(./img/rectangle-2-1.svg);
+  position: absolute;
+  height: 69px;
+  top: 4px;
+  background-size: 100% 100%;
+}
+
+.proyecto .text-wrapper-2 {
+  position: absolute;
+  width: 263px;
+  top: 14px;
+  left: 45px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.proyecto .rectangle {
+  position: absolute;
+  width: 384px;
+  height: 74px;
+  top: -1598px;
+  left: -3878px;
+}
+
+.proyecto .home {
+  position: absolute;
+  width: 382px;
+  height: 74px;
+  top: 28px;
+  left: 599px;
+}
+
+.proyecto .overlap {
+  width: 367px;
+  left: 13px;
+  background-image: url(./img/rectangle-2.svg);
+  position: absolute;
+  height: 69px;
+  top: 4px;
+  background-size: 100% 100%;
+}
+
+.proyecto .text-wrapper-3 {
+  position: absolute;
+  width: 260px;
+  top: 14px;
+  left: 45px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.proyecto .img {
+  position: absolute;
+  width: 380px;
+  height: 74px;
+  top: -1598px;
+  left: -3878px;
+}
+
+.proyecto .p {
+  position: absolute;
+  width: 874px;
+  top: 511px;
+  left: 283px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
