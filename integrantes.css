@@ -1,0 +1,82 @@
+html,body {
+  width: 1440px;
+  height: 1024px;
+  background-image: url("img/image\ 16.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  transform: translate3d(0, 0, scroll-y);
+}
+
+.buttons-header {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+p {
+  margin: 0;
+}
+
+img {
+  margin-left: 50px ;
+}
+
+.buttons {
+  width: 366px;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 100px;
+  background-color: #084059;
+  opacity: 0.8;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
+  margin-top: 10px;
+
+}
+
+.allprofiles {
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.perfil-1{
+  width: 366px;
+}
+
+.perfil-2{
+  width: 366px;
+}
+
+.perfil-3{
+  width: 366px;
+  align-self: flex-end;
+  
+}
+
+.perfil-4{
+  width: 366px;
+  align-self: flex-end;
+}
+
+.mannati {
+  width: 200px;
+  position: relative;
+  margin-top: 300px;
+  margin-right: 330px;
+}
+
+.mannati:hover{
+  transition: 0.5s;
+  transform: scale(1.1);
+
+}
